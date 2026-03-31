@@ -1,4 +1,4 @@
-# Overlapping Genes Code Collection
+# Overlapping genes via MSA-trained Potts models
 
 Code and analysis for generating and studying overlapping genes using Potts models trained on multiple-sequence-alignments. This repository contains reproducible analysis scripts and notebooks for the associated manuscript, *The fitness landscape of overlapping genes*, by Orson Kirsch, Nicole Wood, Steven A. Redford, and Kabir Husain.
 
